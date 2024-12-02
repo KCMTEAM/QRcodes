@@ -1,5 +1,5 @@
 # QRcodes
-## 🖼️📱 QRcode's Generator || version 1
+## 🖼️📱 QRcode's Generator
 ![](https://i.imgur.com/Ol3PB2w.png)
 _generate your link into qrcode and share it with your friends using QRcodes Tool ✨🥳_
 # How To Use ❔
